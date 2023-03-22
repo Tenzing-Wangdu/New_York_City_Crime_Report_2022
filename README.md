@@ -59,14 +59,6 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Facts Table and 6 Dimensions
 
-A picture of the dimensional model
-![Dimensional%20Model.png](attachment:Dimensional%20Model.png)
-
-This project's Kimball Bus Matrix:
-
-A picture of the dimensional model
-![Kimball%20Bus%20Matrix.png](attachment:Kimball%20Bus%20Matrix.png)
-
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
@@ -75,22 +67,6 @@ List of Visualizations for each KPI:
 3. Highlighted Table for Crimes by victim’s races
 4. Horizontal Bar Chart for Crime by victim’s ages 
 5. A Tree Map for Common offense by borough
-
-BI Application Wireframe design:
-
-A picture of Wireframe design
-![WireFrame.png](attachment:WireFrame.png)
-
-![Wireframe2.jpeg](attachment:Wireframe2.jpeg)
-
-Picture of final Dashboard:
-
-Dashboard 1: Geographical 
-![Dashboard1.png](attachment:Dashboard1.png)
-
-Dashboard 2: Demographic 
-![Dashboard2.png](attachment:Dashboard2.png)
-
 
 ### Deployment
 
